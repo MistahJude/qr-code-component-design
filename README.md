@@ -15,8 +15,8 @@ QR Code Design with vanilla HTML & CSS using Flexbox
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link to Solution](https://www.frontendmentor.io/solutions/qr-code-design-with-html-and-css-using-flexbox-5wFDvffkOI)
+- Live Site URL: [Live link](https://qr-code-component-design-beryl.vercel.app/)
 
 ### Built with
 
